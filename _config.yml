@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "village.png"
+  avatar           : "village.jpg"
   name             : "Sean P. McGowan"
   pronouns         : "they/he"  
   bio              : "Applied mathematics PhD graduate"
