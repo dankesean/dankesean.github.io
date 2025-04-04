@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sean P. McGowan"
+title                    : "Sean's Homepage"
 title_separator          : "-"
 name                     : &name "Sean P. McGowan"
 description              : &description "personal description"
@@ -26,8 +26,9 @@ author:
   name             : "Sean P. McGowan"
   pronouns         : "they/he"  
   bio              : "Applied mathematics PhD graduate"
+  location	   : "Adelaide, Australia"
   employer         : "University of Adelaide"
-  url              : # URL
+  uri              : # URL
   email            : "sean.mcgowan@adelaide.edu.au" 
 
   # Academic websites
