@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-AUS"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Sean P. McGowan"
 title_separator          : "-"
