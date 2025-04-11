@@ -1,6 +1,7 @@
 ---
 title: "Tutoring and marking"
 collection: teaching
+type: "Teaching assistant"
 permalink: /teaching/tutoring
 venue: "University of Adelaide, School of Mathematical and Computer Sciences"
 date: 2020-01-01
