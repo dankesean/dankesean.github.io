@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Life list
+Birding life list
 ------
 
 These are (most of) the birds I have seen.
