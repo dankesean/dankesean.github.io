@@ -17,12 +17,14 @@ My research interests revolve around how to best analyse, predict, and control c
 
 Teaching
 ------
-Throughout my study I have had a number of professional roles including tutoring, course coordinating, and course developing. More information can be found in [Teaching](https://dankesean.github.io/teaching/).
+Throughout my study I have had a number of professional roles including tutoring, course coordinating, and course developing. These include roles across Mathematics and Engineering faculties at the University of Adelaide. More information can be found in [Teaching](https://dankesean.github.io/teaching/).
 
 
 Other interests
 ------
-
+Music
+Art
+[Birdwatching](https://dankesean.github.io/bird/), cloudspotting, stargazing
 
 
 Create content & metadata
