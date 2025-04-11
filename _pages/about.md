@@ -12,7 +12,7 @@ redirect_from:
 
 Research
 ------
-My research interests revolve around how to best analyse, predict, or control chaotic dynamical system when only imperfect models and noisy data are available. This extends from data-driven dynamical systems to data assimilation.
+My research interests revolve around how to best analyse, predict, and control chaotic dynamical systems when only imperfect models and noisy data are available. This extends from study in data-driven dynamical systems to data assimilation. Figures and animations arising from my research can be viewed in [Research](https://dankesean.github.io/research/). Information about papers and presentations about my research can be found in [Publications](https://dankesean.github.io/publications/) and [Talks](https://dankesean.github.io/talks/).
 
 
 Teaching
