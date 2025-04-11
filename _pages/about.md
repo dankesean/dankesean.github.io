@@ -13,12 +13,12 @@ redirect_from:
 
 Research
 ------
-Interests include data-driven dynamical systems
+My research interests revolve around how to best analyse, predict, or control chaotic dynamical system when only imperfect models and noisy data are available. This extends from data-driven dynamical systems to data assimilation.
 
 
 Teaching
 ------
-Throughout my study I have had a number of professional roles including tutoring, course coordinating, and course developing.
+Throughout my study I have had a number of professional roles including tutoring, course coordinating, and course developing. More information can be found in [Teaching](https://dankesean.github.io/teaching/).
 
 
 Site-wide configuration
