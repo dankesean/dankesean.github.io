@@ -1,19 +1,24 @@
 ---
-
+layout: archive
 title: "Research"
-permalink: /sitemap/
+permalink: /research/
 author_profile: true
 ---
 
-Reconstruction for prediction
+{% include base_path %}
+
+
+Reconstruction for prediction 
 ------
 
 
 
-Reconstruction for estimation
+Reconstruction for estimation 
 ------
 
 
 
-Reconstruction for correction
+Reconstruction for correction 
 ------
+
+
