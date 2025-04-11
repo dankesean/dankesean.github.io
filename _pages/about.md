@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sean P. McGowan - Home"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-About
+
 ======
 
 Research
