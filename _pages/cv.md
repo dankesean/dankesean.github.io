@@ -18,8 +18,16 @@ Work experience
 ======
 * 2021 - 2022: Research Assistant 
   * Teletraffic Research Centre
-  * Working within a research group investigating adaptive estimation and control of nonlinear systems with partial observations via bandit algorithms
+  * Working within a research group investigating adaptive estimation and control of nonlinear systems with partial observations via bandit algorithms.
   * Supervisor: [Dr George Stamatescu](https://researchers.adelaide.edu.au/profile/george.stamatescu)
+
+* 2018: Student Researcher
+  * University of Adelaide
+  * Worked in a team for research into the phenomena of quantum locking with superconducting
+materials. Developed a procedure of quantum locking to optimise flight time, lock height and
+pinning force through experimentation. Designed and built a proof-of-concept demonstration
+of the effect.
+  * Supervisor: [William Robertson](https://researchers.adelaide.edu.au/profile/will.robertson)
 
 
 Publications
