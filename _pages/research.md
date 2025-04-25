@@ -18,7 +18,7 @@ The vector field in a local neighbourhood around a chaotic attractor may be esti
 $$\mathbf{x}(t+T) = \mathbf{x}(t)+\int^{t+T}_{t} \mathbf{g}(\mathbf{x}(\tau)) \, \mathrm{d} t $$
 
 
-![village](images/village.jpg)
+![test](images/village.jpg)
 
 
 Reconstruction for estimation 
