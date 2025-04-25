@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Most of my work relies on using guarantees about certain dynamical systems to be able to reconstruct their dynamics from partially observed data. Namely, Takens Embedding Theorem allows certain attractors from chaotic dynamical systems to be reconstructed using what is known as a *delay embedding*. This enables chaotic dynamics to be estimated directly from observational data, potentially at higher accuracy than models derived from other means such as first-principles modelling. The subsections below were the titles of my chapters of my PhD thesis which provide a summary of my research.
+Most of my work relies on using properties of certain dynamical systems to be able to reconstruct their dynamics from partially observed data. Namely, Takens Embedding Theorem allows certain attractors from chaotic dynamical systems to be reconstructed using what is known as a *delay embedding*. This enables chaotic dynamics to be estimated directly from observational data, potentially at higher accuracy than models derived from other means such as first-principles modelling. The subsections below were the titles of my chapters of my PhD thesis which provide a summary of my research.
 
 
 Reconstruction for prediction 

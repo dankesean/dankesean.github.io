@@ -16,6 +16,7 @@ Education
 
 Work experience
 ======
+
 * 2021 - 2022: Research Assistant 
   * Teletraffic Research Centre
   * Working within a research group investigating adaptive estimation and control of nonlinear systems with partial observations via bandit algorithms

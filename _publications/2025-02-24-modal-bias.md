@@ -1,9 +1,10 @@
 ---
-title: "Data-driven dynamic modal bias analysis and correction for Earth system models."
+title: "Data-driven dynamic modal bias analysis and correction for Earth system models (In review)"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-24-modal-bias
 excerpt: 'This paper explores ideas of bias correction using data-driven dynamical methods.'
+venue: In review
 date: 2025-02-24
 citation: 'McGowan, S.P., Jones N., Robertson, W.S.P., Balasuriya, S. Data-driven dynamic modal bias analysis and correction for Earth system models. In review (2025).'
 ---
