@@ -13,12 +13,12 @@ Most of my work relies on using properties of certain dynamical systems to be ab
 
 Reconstruction for prediction 
 ------
-The vector field in a local neighbourhood around a chaotic attractor may be estimated from observational data using optimal control, from which, prediction and uncertainty quantification can be facilitated without a model of the system. The paper [Optimal Reconstruction of Vector Fields from Data for Prediction and Uncertainty Quantification](https://dankesean.github.io/publication/2024-06-13-optimal-vec-fields) arose from this research.
+The vector field in a local neighbourhood around a chaotic attractor may be estimated from observational data using optimal control, from which, prediction and uncertainty quantification can be facilitated without a model of the system. Even when The paper [Optimal Reconstruction of Vector Fields from Data for Prediction and Uncertainty Quantification](https://dankesean.github.io/publication/2024-06-13-optimal-vec-fields) arose from this research.
 
 $$\mathbf{x}(t+T) = \mathbf{x}(t)+\int^{t+T}_{t} \mathbf{g}(\mathbf{x}(\tau)) \, \mathrm{d} t $$
 
 
-![test](images/village.jpg)
+![prediction](images/prediction.png)
 
 
 Reconstruction for estimation 
@@ -29,6 +29,8 @@ $$\mathbf{x}^f_{k} = \mathcal{M}_{k}\bigl(\mathbf{x}^a_{k-1}\bigr) $$
 
 $$\mathbf{x}^a = \mathbf{x}^f_k+\mathbf{K}_k\left(\mathbf{y}_k-\mathcal{H}_k\bigl(\mathbf{x}^f_k \bigr)\right) $$
 
+![estimation](images/estimation.png)
+
 
 
 Reconstruction for correction 
@@ -37,5 +39,5 @@ Knowledge-based models are of great importance due to their mechanistic understa
 
 $$\mathbf{x}(t+T) \approx \mathbf{x}^\mathcal{M}(t+T)+\mathcal{D}^T(\mathbf{e}(t)) $$
 
-
+![correction](images/correction.png)
 
