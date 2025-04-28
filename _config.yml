@@ -198,7 +198,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: wide
       author_profile: true
       read_time: true
       comments: true
@@ -216,7 +216,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: wide
       author_profile: true
       share: true
       comments: true
@@ -225,7 +225,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: wide
       author_profile: true
       share: true
       comments: true
@@ -234,7 +234,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: single
+      layout: wide
       author_profile: true
       share: true
       comment: true
@@ -243,7 +243,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: wide
       author_profile: true
       share: true
 
