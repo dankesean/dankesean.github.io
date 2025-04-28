@@ -13,7 +13,7 @@ Most of my work relies on using properties of certain dynamical systems to be ab
 
 Reconstruction for prediction 
 ------
-The vector field in a local neighbourhood around a chaotic attractor may be estimated from observational data using optimal control, from which, prediction and uncertainty quantification can be facilitated without a model of the system. Even when The paper [Optimal Reconstruction of Vector Fields from Data for Prediction and Uncertainty Quantification](https://dankesean.github.io/publication/2024-06-13-optimal-vec-fields) arose from this research.
+The vector field in a local neighbourhood around a chaotic attractor may be estimated from observational data using optimal control, from which, prediction and uncertainty quantification can be facilitated without a model of the system. Even when only partial observations of the full state are available, Takens Embedding Theorem allows estimation of the system dynamics. The paper [Optimal Reconstruction of Vector Fields from Data for Prediction and Uncertainty Quantification](https://dankesean.github.io/publication/2024-06-13-optimal-vec-fields) arose from this research.
 
 $$\mathbf{x}(t+T) = \mathbf{x}(t)+\int^{t+T}_{t} \mathbf{g}(\mathbf{x}(\tau)) \, \mathrm{d} t $$
 
