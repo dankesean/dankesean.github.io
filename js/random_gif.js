@@ -10,4 +10,7 @@ const gifs = [
 ];
 
 const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
-document.getElementById('profile-gif').src = randomGif;
+const img = document.getElementById('profile-gif');
+if (img) {
+  img.src = randomGif;
+}
