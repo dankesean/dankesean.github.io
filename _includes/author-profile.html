@@ -173,6 +173,7 @@
   <img id="profile-gif" src="" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
 </div>
 
+{% raw %}
 <script>
   const gifs = [
     {% for i in (1..8) %}
@@ -183,3 +184,4 @@
   const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
   document.getElementById('profile-gif').src = randomGif;
 </script>
+{% endraw %}
