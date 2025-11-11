@@ -1,99 +1,55 @@
-{% include base_path %} {% if page.author and site.data.authors[page.author] %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %} {% endif %}
-{% if author.avatar contains "://" %}  {% else %}  {% endif %}
-{{ author.name }}
-{% if author.pronouns %}
-{{ author.pronouns }}
-{% endif %} {% if author.bio %}
-{{ author.bio }}
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
-Follow
-{% if author.location %}
-{{ author.location }}
-{% endif %} {% if author.employer %}
-{{ author.employer }}
-{% endif %} {% if author.uri %}
-{{ site.data.ui-text[site.locale].website_label | default: "Website" }}
-{% endif %} {% if author.email %}
-{{ site.data.ui-text[site.locale].email_label | default: "Email" }}
-{% endif %} {% if author.arxiv %}
-arXiv
-{% endif %} {% if author.googlescholar %}
-Google Scholar
-{% endif %} {% if author.semantic %}
-Semantic Scholar
-{% endif %} {% if author.impactstory %}
-Impactstory
-{% endif %} {% if author.orcid %}
-ORCID
-{% endif %} {% if author.pubmed %}
-PubMed
-{% endif %} {% if author.researchgate %}
-ResearchGate
-{% endif %} {% if author.scopus %}
-Scopus
-{% endif %} {% if author.bitbucket %}
-Bitbucket
-{% endif %} {% if author.codepen %}
-CodePen
-{% endif %} {% if author.dribbble %}
-Dribbble
-{% endif %} {% if author.github %}
-GitHub
-{% endif %} {% if author.kaggle %}
-Kaggle
-{% endif %} {% if author.stackoverflow %}
-Stackoverflow
-{% endif %} {% if author.bluesky %}
-Bluesky
-{% endif %} {% if author.facebook %}
-Facebook
-{% endif %} {% if author.flickr %}
-Flickr
-{% endif %} {% if author.foursquare %}
-Foursquare
-{% endif %} {% if author.goodreads %}
-Goodreads
-{% endif %} {% if author.google_plus %}
-Google+
-{% endif %} {% if author.keybase %}
-Keybase
-{% endif %} {% if author.instagram %}
-Instagram
-{% endif %} {% if author.lastfm %}
-Last.fm
-{% endif %} {% if author.linkedin %}
-LinkedIn
-{% endif %} {% if author.mastodon %}
-Mastodon
-{% endif %} {% if author.medium %}
-Medium
-{% endif %} {% if author.pinterest %}
-Pinterest
-{% endif %} {% if author.soundcloud %}
-Soundcloud
-{% endif %} {% if author.steam %}
-Steam
-{% endif %} {% if author.telegram %}
-Telegram
-{% endif %} {% if author.tumblr %}
-Tumblr
-{% endif %} {% if author.twitter %}
-X (formerly Twitter)
-{% endif %} {% if author.vine %}
-Vine
-{% endif %} {% if author.weibo %}
-Weibo
-{% endif %} {% if author.wikipedia %}
-Wikipedia
-{% endif %} {% if author.xing %}
-XING
-{% endif %} {% if author.youtube %}
-YouTube
-{% endif %} {% if author.zhihu %}
-Zhihu
-{% endif %}
-{% if author %}
-  <div class="sidebar_gif">
-    <img src="{{ '/images/1.gif' | relative_url }}" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
-  </div>
-{% endif %}
+
+<div class="author__avatar">
+  {% if author.avatar contains "://" %}
+    <img src="{{ author.avatar }}" alt="{{ author.name }}">
+  {% else %}
+    <img src="{{ author.avatar | prepend: "/assets/images/" | relative_url }}" alt="{{ author.name }}">
+  {% endif %}
+</div>
+
+<div class="author__content">
+  <h3 class="author__name">{{ author.name }}</h3>
+
+  {% if author.pronouns %}
+  <p class="author__pronouns">{{ author.pronouns }}</p>
+  {% endif %}
+
+  {% if author.bio %}
+  <p class="author__bio">{{ author.bio }}</p>
+  {% endif %}
+
+  {% if author.location %}
+  <p class="author__location">{{ author.location }}</p>
+  {% endif %}
+
+  {% if author.employer %}
+  <p class="author__employer">{{ author.employer }}</p>
+  {% endif %}
+
+  <ul class="author__urls">
+    {% if author.email %}
+    <li><a href="mailto:{{ author.email }}">Email</a></li>
+    {% endif %}
+    {% if author.googlescholar %}
+    <li><a href="{{ author.googlescholar }}">Google Scholar</a></li>
+    {% endif %}
+    {% if author.orcid %}
+    <li><a href="{{ author.orcid }}">ORCID</a></li>
+    {% endif %}
+    {% if author.github %}
+    <li><a href="{{ author.github }}">GitHub</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+<!-- Add your GIF here -->
+<div class="sidebar_gif">
+  <img src="{{ '/assets/images/1.gif' | relative_url }}" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
+</div>
