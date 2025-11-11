@@ -92,6 +92,8 @@ YouTube
 {% endif %} {% if author.zhihu %}
 Zhihu
 {% endif %}
-<div class="sidebar_gif">
-  <img src="{{ '/assets/images/1.gif' | 1gif }}" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
-</div>
+{% if author %}
+  <div class="sidebar_gif">
+    <img src="{{ '/assets/images/1.gif' | relative_url }}" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
+  </div>
+{% endif %}
