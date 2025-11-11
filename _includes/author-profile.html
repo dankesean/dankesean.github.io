@@ -172,3 +172,25 @@
 <div class="sidebar_gif">
   <img src="{{ '/images/1.gif' | relative_url }}" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
 </div>
+
+<div class="sidebar_gif">
+  <img id="profile-gif" src="" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
+</div>
+
+{% raw %}
+<script>
+  const gifs = [
+    "{{ '/images/1.gif' | relative_url }}",
+    "{{ '/images/2.gif' | relative_url }}",
+    "{{ '/images/3.gif' | relative_url }}",
+    "{{ '/images/4.gif' | relative_url }}",
+    "{{ '/images/5.gif' | relative_url }}",
+    "{{ '/images/6.gif' | relative_url }}",
+    "{{ '/images/7.gif' | relative_url }}",
+    "{{ '/images/8.gif' | relative_url }}"
+  ];
+
+  const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
+  document.getElementById('profile-gif').src = randomGif;
+</script>
+{% endraw %}
