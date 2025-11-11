@@ -31,7 +31,8 @@ of the effect.
 
 Supervision
 ======
-* Sean Green (BSc (Hon.), University of Adelaide, 2025): 
+* Sean Green (BSc (Hon.), University of Adelaide, 2025): Cardiac Arrhythmias in the Complex
+Plane: A Phase-Based Framework for Atrial Fibrillation Detection Using the Hilbert Transform
 
 Teaching
 ======
