@@ -174,15 +174,21 @@
 </div>
 
 <script>
-  // Array of your GIF filenames
+  // Array of your GIF filenames with Liquid relative_url applied
   const gifs = [
-    "1.gif", "2.gif", "3.gif", "4.gif",
-    "5.gif", "6.gif", "7.gif", "8.gif"
+    "{{ '/images/1.gif' | relative_url }}",
+    "{{ '/images/2.gif' | relative_url }}",
+    "{{ '/images/3.gif' | relative_url }}",
+    "{{ '/images/4.gif' | relative_url }}",
+    "{{ '/images/5.gif' | relative_url }}",
+    "{{ '/images/6.gif' | relative_url }}",
+    "{{ '/images/7.gif' | relative_url }}",
+    "{{ '/images/8.gif' | relative_url }}"
   ];
 
   // Pick a random GIF
   const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
 
   // Set the src of the img element
-  document.getElementById('profile-gif').src = "{{ '/images/' | relative_url }}" + randomGif;
+  document.getElementById('profile-gif').src = randomGif;
 </script>
