@@ -6,6 +6,7 @@ permalink: /publication/2025-04-30-modal-bias
 excerpt: 'This paper explores ideas of bias correction using data-driven dynamical methods.'
 date: 2025-04-30
 venue: 'Journal of Advances in Modeling Earth Systems'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004779'
 citation: 'McGowan, S.P., Jones N., Robertson, W.S.P., Balasuriya, S. Data-driven dynamic modal bias analysis and correction for Earth system models. Journal of Advances in Modeling Earth Systems, 17, e2024MS004779 (2025).'
 ---
 
