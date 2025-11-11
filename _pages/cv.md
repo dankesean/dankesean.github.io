@@ -29,6 +29,15 @@ pinning force through experimentation. Designed and built a proof-of-concept dem
 of the effect.
   * Supervisor: [Dr William Robertson](https://researchers.adelaide.edu.au/profile/will.robertson)
 
+Supervision
+======
+* Sean Green (BSc (Hon.), University of Adelaide, 2025): 
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -42,9 +51,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
