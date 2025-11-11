@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics supervised by [Associate Professor Sanjeeva Balasuriya](https://sanji-balasuriya.github.io/) and [Dr William Robertson](https://researchers.adelaide.edu.au/profile/will.robertson), University of Adelaide, 2021 - 2025
+* Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Mathematical and Computer Science (Applied Mathematics and Pure Mathematics Double Major), University of Adelaide, 2015 - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 - 2022: Research Assistant 
+  * Teletraffic Research Centre
+  * Working within a research group investigating adaptive estimation and control of nonlinear systems with partial observations via bandit algorithms.
+  * Supervisor: [Dr George Stamatescu](https://researchers.adelaide.edu.au/profile/george.stamatescu)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Student Researcher
+  * University of Adelaide
+  * Worked in a team for research into the phenomena of quantum locking with superconducting
+materials. Developed a procedure of quantum locking to optimise flight time, lock height and
+pinning force through experimentation. Designed and built a proof-of-concept demonstration
+of the effect.
+  * Supervisor: [Dr William Robertson](https://researchers.adelaide.edu.au/profile/will.robertson)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Supervision
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sean Green (BSc (Hon.), University of Adelaide, 2025): Cardiac Arrhythmias in the Complex
+Plane: A Phase-Based Framework for Atrial Fibrillation Detection Using the Hilbert Transform
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -53,12 +52,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
