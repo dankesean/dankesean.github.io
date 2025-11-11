@@ -27,7 +27,7 @@ Work experience
 materials. Developed a procedure of quantum locking to optimise flight time, lock height and
 pinning force through experimentation. Designed and built a proof-of-concept demonstration
 of the effect.
-  * Supervisor: [William Robertson](https://researchers.adelaide.edu.au/profile/will.robertson)
+  * Supervisor: [Dr William Robertson](https://researchers.adelaide.edu.au/profile/will.robertson)
 
 
 Publications
