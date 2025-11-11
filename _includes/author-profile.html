@@ -173,24 +173,13 @@
   <img id="profile-gif" src="" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
 </div>
 
-{% raw %}
 <script>
-  // Array of your GIF filenames with Liquid relative_url applied
   const gifs = [
-    "{{ '/images/1.gif' | relative_url }}",
-    "{{ '/images/2.gif' | relative_url }}",
-    "{{ '/images/3.gif' | relative_url }}",
-    "{{ '/images/4.gif' | relative_url }}",
-    "{{ '/images/5.gif' | relative_url }}",
-    "{{ '/images/6.gif' | relative_url }}",
-    "{{ '/images/7.gif' | relative_url }}",
-    "{{ '/images/8.gif' | relative_url }}"
+    {% for i in (1..8) %}
+      "{{ '/images/' | relative_url }}{{ i }}.gif"{% if forloop.last == false %},{% endif %}
+    {% endfor %}
   ];
 
-  // Pick a random GIF
   const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
-
-  // Set the src of the img element
   document.getElementById('profile-gif').src = randomGif;
 </script>
-{% endraw %}
