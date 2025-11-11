@@ -169,19 +169,20 @@
   </div>
 </div>
 
-<div>
-<img id="profile-gif" src="" alt="Animated profile" style="width:100%; border-radius:10px;">
+<div class="sidebar_gif">
+  <img id="profile-gif" src="" alt="Attractor gif" style="max-width: 100%; border-radius: 6px;">
 </div>
+
 <script>
-  // Place all your GIF filenames in this array
+  // Array of your GIF filenames
   const gifs = [
     "1.gif", "2.gif", "3.gif", "4.gif",
     "5.gif", "6.gif", "7.gif", "8.gif"
   ];
 
-  // Choose one at random each time the page loads
+  // Pick a random GIF
   const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
 
-  // Update the <img> source
-  document.getElementById("profile-gif").src = randomGif;
+  // Set the src of the img element
+  document.getElementById('profile-gif').src = "{{ '/images/' | relative_url }}" + randomGif;
 </script>
