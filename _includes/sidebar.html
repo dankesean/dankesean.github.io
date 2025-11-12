@@ -16,13 +16,13 @@
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      <div class="sidebar_gif">
-      <img id="profile-gif" src="" alt="Attractor gif" style="max-width:100%; border-radius:6px;">
-      </div>
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+    <div class="sidebar_gif">
+      <img id="profile-gif" src="" alt="Attractor gif" style="max-width:100%; border-radius:6px;">
+    </div>
   </div>
 {% endif %}
