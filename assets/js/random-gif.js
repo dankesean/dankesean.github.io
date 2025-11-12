@@ -1,13 +1,13 @@
-const gifs = [
-  "/images/1.gif",
-  "/images/2.gif",
-  "/images/3.gif",
-  "/images/4.gif",
-  "/images/5.gif",
-  "/images/6.gif",
-  "/images/7.gif",
-  "/images/8.gif"
-];
+document.addEventListener("DOMContentLoaded", function() {
+  const gifs = [
+    "1.gif", "2.gif", "3.gif", "4.gif",
+    "5.gif", "6.gif", "7.gif", "8.gif"
+  ];
 
-const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
-document.getElementById('profile-gif').src = randomGif;
+  const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
+  const gifElement = document.getElementById("profile-gif");
+
+  if (gifElement) {
+    gifElement.src = "{{ '/images/' | relative_url }}" + randomGif;
+  }
+});
