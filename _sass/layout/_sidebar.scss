@@ -56,7 +56,7 @@
   }
 
   img {
-    width: 100%;
+    width: 75%;
   }
 }
 
@@ -108,7 +108,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
-  padding-right: 25px;
+  padding-right: 50px;
   line-height: 1;
 
   @include breakpoint($large) {
