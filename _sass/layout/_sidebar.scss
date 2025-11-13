@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    margin-right: 2rem;
+    margin-right: 2em;
   }
 
   @media (orientation: portrait) {
