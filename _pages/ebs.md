@@ -8,51 +8,16 @@ author_profile: true
 {% include base_path %}
 
 
-$$
-\renewcommand{\arraystretch}{1.4}
-\begin{array}{ccc}
 
-\textbf{Paul\ Erd\ddot{o}s\ (0)} &
-\textbf{Kevin\ Bacon\ (0)} &
-\textbf{Ozzy\ Osbourne\ (0)} \\
-
-\text{coauthored ``Optima of dual integer linear programs'' with} &
-\text{appeared in ``The Best You Can'' with} &
-\text{collaborated on ``Take What You Want'' with} \\
-
-\textbf{Nathan\ Linial\ (1)} &
-\textbf{Victoria\ Hill\ (1)} &
-\textbf{Post\ Malone\ (1)} \\
-
-\text{coauthored ``Musical Chairs'' with} &
-\text{appeared in ``Boys in the Trees'' with} &
-\text{collaborated on ``Livin It Up'' with} \\
-
-\textbf{Yehuda\ Afek\ (2)} &
-\textbf{Harrison\ Evans\ (2)} &
-\textbf{A\$AP\ Rocky\ (2)} \\
-
-\text{coauthored ``Chips and Boards Through MOSIS'' with} &
-\text{appeared in ``Coldwave - The Ants'' with} &
-\text{collaborated on ``Kids Turned Out Fine'' with} \\
-
-\textbf{David\ Booth\ (3)} &
-\textbf{Sean\ McGowan\ (3)} &
-\textbf{Stefan\ Blair\ (3)} \\
-
-\text{coauthored ``Simulating Time-Series Data for Improved Deep Neural Network Performance'' with} &
-&
-\text{collaborated on ``Ella Ion album'' with} \\
-
-\textbf{William\ S.P.\ Robertson\ (4)} &
-&
-\textbf{Sean\ McGowan\ (4)} \\
-
-\text{coauthored ``Model-free data assimilation in embedded space'' with} &
-& \\
-
-\textbf{Sean\ McGowan\ (5)} &
-&
-
-\end{array}
-$$
+| **Paul Erdös (0)** | **Kevin Bacon (0)** | **Ozzy Osbourne (0)** |
+|:------------------:|:-------------------:|:---------------------:|
+| coauthored <br> *Optima of dual integer <br> linear programs* <br> with | appeared in <br> *The Best You Can* <br> with | performed on <br> *Take What You Want* <br> with |
+| **Nathan Linial (1)** | **Victoria Hill (1)** | **Post Malone (1)** |
+| coauthored <br> *Musical Chairs* <br> with | appeared in <br> *Boys in the Trees* <br> with | performed on <br> *Livin It Up* <br> with |
+| **Yehuda Afek (2)** | **Harrison Evans (2)** | **A$AP Rocky (2)** |
+| coauthored <br> *Chips and Boards <br> Through MOSIS* <br> with | appeared in <br> *Coldwave - The Ants* <br> with | performed on <br> *Kids Turned Out Fine* <br> with |
+| **David Booth (3)** | **Sean McGowan (3)** | **Stefan Blair (3)** |
+| coauthored <br> *Simulating Time-Series <br> Data for Improved <br> Deep Neural Network <br> Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
+| **William S.P. Robertson (4)** |  | **Sean McGowan (4)** |
+| coauthored <br> *Model-free data <br> assimilation in <br> embedded space* <br> with |  |  |
+| **Sean McGowan (5)** |  |  |
