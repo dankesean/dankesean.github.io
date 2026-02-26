@@ -11,13 +11,13 @@ author_profile: true
 
 | **Paul Erdös (0)** | **Kevin Bacon (0)** | **Ozzy Osbourne (0)** |
 |:------------------:|:-------------------:|:---------------------:|
-| coauthored <br> *Optima of dual integer <br> linear programs* <br> with | appeared in <br> *The Best You Can* <br> with | performed on <br> *Take What You Want* <br> with |
+| coauthored <br> *Optima of dual integer linear programs* <br> with | appeared in <br> *The Best You Can* <br> with | performed on <br> *Take What You Want* <br> with |
 | **Nathan Linial (1)** | **Victoria Hill (1)** | **Post Malone (1)** |
 | coauthored <br> *Musical Chairs* <br> with | appeared in <br> *Boys in the Trees* <br> with | performed on <br> *Livin It Up* <br> with |
 | **Yehuda Afek (2)** | **Harrison Evans (2)** | **A$AP Rocky (2)** |
-| coauthored <br> *Chips and Boards <br> Through MOSIS* <br> with | appeared in <br> *Coldwave - The Ants* <br> with | performed on <br> *Kids Turned Out Fine* <br> with |
+| coauthored <br> *Chips and Boards Through MOSIS* <br> with | appeared in <br> *Coldwave - The Ants* <br> with | performed on <br> *Kids Turned Out Fine* <br> with |
 | **David Booth (3)** | **Sean McGowan (3)** | **Stefan Blair (3)** |
-| coauthored <br> *Simulating Time-Series <br> Data for Improved <br> Deep Neural Network <br> Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
+| coauthored <br> *Simulating Time-Series Data for Improved Deep Neural Network Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
 | **William S.P. Robertson (4)** |  | **Sean McGowan (4)** |
-| coauthored <br> *Model-free data <br> assimilation in <br> embedded space* <br> with |  |  |
+| coauthored <br> *Model-free data assimilation in embedded space* <br> with |  |  |
 | **Sean McGowan (5)** |  |  |
