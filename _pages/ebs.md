@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-An Erdös number is ...
+An Erdös number is the degree of separation from Hungarian mathematician Paul Erdös by coauthored academic publications. Similarly, the Bacon number represents the collaborative distance from American actor Kevin Bacon through acting roles. The Sabbath number measures distance through musical collaborations to any member of the English band Black Sabbath. The sum of the three numbers results in an Erdös-Bacon-Sabbath number.
+
+Here are my Erdös, Bacon, and Sabbath numbers:
 
 
 | **Paul Erdös (0)** | **Kevin Bacon (0)** | **Ozzy Osbourne (0)** |
@@ -24,4 +26,4 @@ An Erdös number is ...
 | coauthored <br> *Model-free data assimilation <br> in embedded space* <br> with |  |  |
 | **Sean McGowan (5)** |  |  |
 
-This makes my Erdös(5)-Bacon(3)-Sabbath(4) number 12 (5+3+4). 
+This makes my Erdös(5)-Bacon(3)-Sabbath(4) number 12. 
