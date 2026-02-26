@@ -23,3 +23,5 @@ An Erdös number is ...
 | **William S.P. Robertson (4)** |  | **Sean McGowan (4)** |
 | coauthored <br> *Model-free data assimilation <br> in embedded space* <br> with |  |  |
 | **Sean McGowan (5)** |  |  |
+
+This makes my Erdös(5)-Bacon(3)-Sabbath(4) number 12 (5+3+4). 
