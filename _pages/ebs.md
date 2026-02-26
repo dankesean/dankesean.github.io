@@ -21,5 +21,5 @@ An Erdös number is ...
 | **David Booth (3)** | **Sean McGowan (3)** | **Stefan Blair (3)** |
 | coauthored <br> *Simulating Time-Series Data for Improved <br> Deep Neural Network Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
 | **William S.P. Robertson (4)** |  | **Sean McGowan (4)** |
-| coauthored <br> *Model-free data assimilation in embedded space* <br> with |  |  |
+| coauthored <br> *Model-free data assimilation <br> in embedded space* <br> with |  |  |
 | **Sean McGowan (5)** |  |  |
