@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
+An Erdös number is ...
+
 
 | **Paul Erdös (0)** | **Kevin Bacon (0)** | **Ozzy Osbourne (0)** |
 |:------------------:|:-------------------:|:---------------------:|
@@ -17,7 +19,7 @@ author_profile: true
 | **Yehuda Afek (2)** | **Harrison Evans (2)** | **A$AP Rocky (2)** |
 | coauthored <br> *Chips and Boards Through MOSIS* <br> with | appeared in <br> *Coldwave - The Ants* <br> with | performed on <br> *Kids Turned Out Fine* <br> with |
 | **David Booth (3)** | **Sean McGowan (3)** | **Stefan Blair (3)** |
-| coauthored <br> *Simulating Time-Series Data for Improved Deep <br> Neural Network Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
+| coauthored <br> *Simulating Time-Series Data for Improved Deep Neural Network Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
 | **William S.P. Robertson (4)** |  | **Sean McGowan (4)** |
 | coauthored <br> *Model-free data assimilation in embedded space* <br> with |  |  |
 | **Sean McGowan (5)** |  |  |
