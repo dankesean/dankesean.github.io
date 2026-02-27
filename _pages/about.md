@@ -25,5 +25,6 @@ Other interests
 Outside of research I create music under [Coldwave](https://open.spotify.com/artist/3hg7JeEykcBkSUlZHaFT6L?si=gnm7bsahTguXeCtXJDs_sg) (post-punk), [Nuclear Family](https://open.spotify.com/artist/1c6y8cWEYVI0jaJ4MopWRg?si=j9IAVk0pRGq04miHNOJS4Q) (indie-emo), and [Sean McGowan](https://open.spotify.com/artist/37z3cIr9irYkSd8AsGB9LZ?si=heWWRvp-QU-XhIGh12sPaQ) (ambient-electronic).
 In my spare time I enjoy [birdwatching](https://dankesean.github.io/bird/), cloudspotting, stargazing, and observing the world in general!
 
+My [Erdös-Bacon-Sabbath](https://dankesean.github.io/ebs/) number is 12.
 
 Please feel free to explore these pages and reach out to me if you are interested or if you have any questions!
