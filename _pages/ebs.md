@@ -19,7 +19,7 @@ Here are my Erdös, Bacon, and Sabbath numbers:
 | **Nathan Linial (1)** | **Victoria Hill (1)** | **Post Malone (1)** |
 | coauthored <br> *Musical Chairs* <br> with | appeared in <br> *Boys in the Trees* <br> with | performed on <br> *Livin It Up* <br> with |
 | **Yehuda Afek (2)** | **Harrison Evans (2)** | **A$AP Rocky (2)** |
-| coauthored <br> *Chips and Boards Through MOSIS* <br> with | appeared in <br> *Coldwave - The Ants* <br> with | performed on <br> *Kids Turned Out Fine* <br> with |
+| coauthored <br> *Chips and Boards Through MOSIS* <br> with | appeared in <br> *The Ants* <br> with | performed on <br> *Kids Turned Out Fine* <br> with |
 | **David Booth (3)** | **Sean McGowan (3)** | **Stefan Blair (3)** |
 | coauthored <br> *Simulating Time-Series Data for Improved <br> Deep Neural Network Performance* <br> with |  | performed on <br> *Ella Ion album* <br> with |
 | **William S.P. Robertson (4)** |  | **Sean McGowan (4)** |
