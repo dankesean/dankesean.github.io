@@ -12,9 +12,6 @@ author_profile: true
 These are a selection of my favourite birds I have seen.
 
 
-- Scarlett Robin
-- Yellow-tailed Black-cockatoo
-- Silverye
 - Spotted Pardalote
 - Superb Lyrebird
 - Rufous Fantail
@@ -22,12 +19,8 @@ These are a selection of my favourite birds I have seen.
 - Variegated Fairy-wren
 - Red-capped Plover
 - Black-fronted Dotterel
-- Pied Stilt
-- Eastern Spinebill
 - Kingfisher
-- Greenfinch
 - European Green Woodpecker
-- Goldfinch
 - White-winged Fairywren
 - Pale-headed Rosella
 - Misteltoebird
@@ -35,9 +28,7 @@ These are a selection of my favourite birds I have seen.
 - Pheasant Coucal
 - Red-backed Fairywren
 - Bassian Thrush
-- Red Kite
 - Firecrest 
-- Kestrel
 - Long-tailed Tit
 - Great Spotted Woodpecker
 
